@@ -1,0 +1,123 @@
+{
+  "relation_type": "course_order_not_expert_prerequisite",
+  "warning_vi": "Thứ tự KC chỉ dùng để minh họa curriculum path; không phải prerequisite graph đã được chuyên gia xác nhận.",
+  "nodes": [
+    {
+      "kc_index": 1,
+      "code": "KC1",
+      "name_en": "Git",
+      "name_vi": "Git / Quản lý phiên bản",
+      "model_concept_id": 0
+    },
+    {
+      "kc_index": 2,
+      "code": "KC2",
+      "name_en": "Design Patterns",
+      "name_vi": "Mẫu thiết kế",
+      "model_concept_id": 1
+    },
+    {
+      "kc_index": 3,
+      "code": "KC3",
+      "name_en": "Software Testing",
+      "name_vi": "Kiểm thử phần mềm",
+      "model_concept_id": 2
+    },
+    {
+      "kc_index": 4,
+      "code": "KC4",
+      "name_en": "Data Structures",
+      "name_vi": "Cấu trúc dữ liệu",
+      "model_concept_id": 3
+    },
+    {
+      "kc_index": 5,
+      "code": "KC5",
+      "name_en": "Android",
+      "name_vi": "Phát triển Android",
+      "model_concept_id": 4
+    },
+    {
+      "kc_index": 6,
+      "code": "KC6",
+      "name_en": "Tokeniser & Parser",
+      "name_vi": "Tokeniser & Parser",
+      "model_concept_id": 5
+    },
+    {
+      "kc_index": 7,
+      "code": "KC7",
+      "name_en": "Persistent Data",
+      "name_vi": "Persistent Data / Dữ liệu lưu bền",
+      "model_concept_id": 6
+    },
+    {
+      "kc_index": 8,
+      "code": "KC8",
+      "name_en": "Refactoring",
+      "name_vi": "Tái cấu trúc mã",
+      "model_concept_id": 7
+    },
+    {
+      "kc_index": 9,
+      "code": "KC9",
+      "name_en": "Design by Contract",
+      "name_vi": "Thiết kế theo hợp đồng",
+      "model_concept_id": 8
+    },
+    {
+      "kc_index": 10,
+      "code": "KC10",
+      "name_en": "Intellectual Property",
+      "name_vi": "Sở hữu trí tuệ",
+      "model_concept_id": 9
+    }
+  ],
+  "edges": [
+    {
+      "from": "KC1",
+      "to": "KC2",
+      "relation": "course_order"
+    },
+    {
+      "from": "KC2",
+      "to": "KC3",
+      "relation": "course_order"
+    },
+    {
+      "from": "KC3",
+      "to": "KC4",
+      "relation": "course_order"
+    },
+    {
+      "from": "KC4",
+      "to": "KC5",
+      "relation": "course_order"
+    },
+    {
+      "from": "KC5",
+      "to": "KC6",
+      "relation": "course_order"
+    },
+    {
+      "from": "KC6",
+      "to": "KC7",
+      "relation": "course_order"
+    },
+    {
+      "from": "KC7",
+      "to": "KC8",
+      "relation": "course_order"
+    },
+    {
+      "from": "KC8",
+      "to": "KC9",
+      "relation": "course_order"
+    },
+    {
+      "from": "KC9",
+      "to": "KC10",
+      "relation": "course_order"
+    }
+  ]
+}

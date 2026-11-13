@@ -1,0 +1,8 @@
+{
+  "best_epoch": 54,
+  "validation_loss": 0.6413562678653244,
+  "validation_auc": 0.7342412499689495,
+  "validation_accuracy": 0.6668175645088276,
+  "validation_brier": 0.21088513519602123,
+  "validation_n": 2209
+}

@@ -1,0 +1,31 @@
+raw_qid,model_question_id,kc_index,model_concept_id,kc_code,kc_name_en,kc_name_vi,correct,gap_days_prev_interaction
+2,8,1,0,KC1,Git,Git / Quản lý phiên bản,1,0.0
+3,14,2,1,KC2,Design Patterns,Mẫu thiết kế,0,0.0
+4,20,3,2,KC3,Software Testing,Kiểm thử phần mềm,1,0.0
+5,26,4,3,KC4,Data Structures,Cấu trúc dữ liệu,0,0.0
+6,32,5,4,KC5,Android,Phát triển Android,0,0.0
+7,38,6,5,KC6,Tokeniser & Parser,Tokeniser & Parser,1,0.0
+8,44,7,6,KC7,Persistent Data,Persistent Data / Dữ liệu lưu bền,1,0.0
+9,50,8,7,KC8,Refactoring,Tái cấu trúc mã,0,0.0
+10,0,9,8,KC9,Design by Contract,Thiết kế theo hợp đồng,0,0.0
+11,7,10,9,KC10,Intellectual Property,Sở hữu trí tuệ,0,0.0
+4,20,3,2,KC3,Software Testing,Kiểm thử phần mềm,1,0.0
+2,8,1,0,KC1,Git,Git / Quản lý phiên bản,1,0.0
+3,14,2,1,KC2,Design Patterns,Mẫu thiết kế,0,0.0
+5,26,4,3,KC4,Data Structures,Cấu trúc dữ liệu,0,0.0
+6,32,5,4,KC5,Android,Phát triển Android,1,0.0
+7,38,6,5,KC6,Tokeniser & Parser,Tokeniser & Parser,1,0.0
+8,44,7,6,KC7,Persistent Data,Persistent Data / Dữ liệu lưu bền,1,0.0
+9,50,8,7,KC8,Refactoring,Tái cấu trúc mã,1,0.0
+10,0,9,8,KC9,Design by Contract,Thiết kế theo hợp đồng,1,0.0
+11,7,10,9,KC10,Intellectual Property,Sở hữu trí tuệ,1,0.0
+1005,6,1,0,KC1,Git,Git / Quản lý phiên bản,1,0.0
+1005,6,1,0,KC1,Git,Git / Quản lý phiên bản,0,0.0
+1005,6,1,0,KC1,Git,Git / Quản lý phiên bản,1,0.0
+2001,9,1,0,KC1,Git,Git / Quản lý phiên bản,1,0.0
+2002,10,1,0,KC1,Git,Git / Quản lý phiên bản,1,0.0
+2003,11,1,0,KC1,Git,Git / Quản lý phiên bản,1,0.0
+2004,12,1,0,KC1,Git,Git / Quản lý phiên bản,1,0.0
+2005,13,2,1,KC2,Design Patterns,Mẫu thiết kế,0,0.0
+2001,9,1,0,KC1,Git,Git / Quản lý phiên bản,1,0.0
+2002,10,1,0,KC1,Git,Git / Quản lý phiên bản,0,0.0

@@ -1,0 +1,49 @@
+{
+  "dataset_name": "FORGET-SE",
+  "model_name": "UKT",
+  "emb_type": "stoc_qid",
+  "model_config": {
+    "d_model": 256,
+    "n_blocks": 4,
+    "dropout": 0.1,
+    "d_ff": 64,
+    "loss1": 0.5,
+    "loss2": 0.5,
+    "loss3": 0.5,
+    "start": 50,
+    "num_layers": 2,
+    "nheads": 4,
+    "seq_len": 200,
+    "final_fc_dim": 512,
+    "final_fc_dim2": 256,
+    "num_attn_heads": 4,
+    "use_CL": false,
+    "cl_weight": 0.02,
+    "use_uncertainty_aug": true,
+    "atten_type": "w2"
+  },
+  "data_config": {
+    "dpath": "/content/forget_se_ukt",
+    "num_q": 56,
+    "num_c": 10,
+    "input_type": [
+      "questions",
+      "concepts"
+    ],
+    "maxlen": 200,
+    "max_concepts": 1,
+    "folds": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "train_valid_file": "train_valid_sequences.csv",
+    "emb_path": ""
+  },
+  "fold": 0,
+  "seed": 42,
+  "uncertainty_definition": "covariance-state proxy from UKT stoc_qid representation",
+  "path_relation_type": "course_order_not_expert_prerequisite"
+}

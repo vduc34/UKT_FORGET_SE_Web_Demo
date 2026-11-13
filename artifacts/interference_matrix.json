@@ -1,0 +1,522 @@
+{
+  "1": {
+    "1": {
+      "corr": 1.0,
+      "category": "self",
+      "risk": 0.0
+    },
+    "2": {
+      "corr": 0.4226756793543754,
+      "category": "low",
+      "risk": 0.2
+    },
+    "3": {
+      "corr": 0.4508864317381882,
+      "category": "low",
+      "risk": 0.2
+    },
+    "4": {
+      "corr": 0.2828542802005415,
+      "category": "moderate",
+      "risk": 0.5
+    },
+    "5": {
+      "corr": 0.4115758233328364,
+      "category": "low",
+      "risk": 0.2
+    },
+    "6": {
+      "corr": 0.41480836537055515,
+      "category": "low",
+      "risk": 0.2
+    },
+    "7": {
+      "corr": 0.3726690550507432,
+      "category": "low",
+      "risk": 0.2
+    },
+    "8": {
+      "corr": 0.17126061414394794,
+      "category": "high",
+      "risk": 1.0
+    },
+    "9": {
+      "corr": 0.2691526879628306,
+      "category": "moderate",
+      "risk": 0.5
+    },
+    "10": {
+      "corr": 0.32120036980927585,
+      "category": "moderate",
+      "risk": 0.5
+    }
+  },
+  "2": {
+    "1": {
+      "corr": 0.4226756793543754,
+      "category": "low",
+      "risk": 0.2
+    },
+    "2": {
+      "corr": 1.0,
+      "category": "self",
+      "risk": 0.0
+    },
+    "3": {
+      "corr": 0.5757889310041099,
+      "category": "low",
+      "risk": 0.2
+    },
+    "4": {
+      "corr": 0.5366790695113212,
+      "category": "low",
+      "risk": 0.2
+    },
+    "5": {
+      "corr": 0.61639845912125,
+      "category": "low",
+      "risk": 0.2
+    },
+    "6": {
+      "corr": 0.3801702324346659,
+      "category": "low",
+      "risk": 0.2
+    },
+    "7": {
+      "corr": 0.395121984536267,
+      "category": "low",
+      "risk": 0.2
+    },
+    "8": {
+      "corr": 0.2513127277344348,
+      "category": "moderate",
+      "risk": 0.5
+    },
+    "9": {
+      "corr": 0.4575770298766398,
+      "category": "low",
+      "risk": 0.2
+    },
+    "10": {
+      "corr": 0.34752757330948236,
+      "category": "moderate",
+      "risk": 0.5
+    }
+  },
+  "3": {
+    "1": {
+      "corr": 0.4508864317381882,
+      "category": "low",
+      "risk": 0.2
+    },
+    "2": {
+      "corr": 0.5757889310041099,
+      "category": "low",
+      "risk": 0.2
+    },
+    "3": {
+      "corr": 1.0,
+      "category": "self",
+      "risk": 0.0
+    },
+    "4": {
+      "corr": 0.553880448474131,
+      "category": "low",
+      "risk": 0.2
+    },
+    "5": {
+      "corr": 0.5482921085461177,
+      "category": "low",
+      "risk": 0.2
+    },
+    "6": {
+      "corr": 0.4290817299776855,
+      "category": "low",
+      "risk": 0.2
+    },
+    "7": {
+      "corr": 0.4593000786925071,
+      "category": "low",
+      "risk": 0.2
+    },
+    "8": {
+      "corr": 0.22174454132034135,
+      "category": "moderate",
+      "risk": 0.5
+    },
+    "9": {
+      "corr": 0.4509267922478756,
+      "category": "low",
+      "risk": 0.2
+    },
+    "10": {
+      "corr": 0.4775141836958956,
+      "category": "low",
+      "risk": 0.2
+    }
+  },
+  "4": {
+    "1": {
+      "corr": 0.2828542802005415,
+      "category": "moderate",
+      "risk": 0.5
+    },
+    "2": {
+      "corr": 0.5366790695113212,
+      "category": "low",
+      "risk": 0.2
+    },
+    "3": {
+      "corr": 0.553880448474131,
+      "category": "low",
+      "risk": 0.2
+    },
+    "4": {
+      "corr": 1.0,
+      "category": "self",
+      "risk": 0.0
+    },
+    "5": {
+      "corr": 0.5671562556332632,
+      "category": "low",
+      "risk": 0.2
+    },
+    "6": {
+      "corr": 0.4123519949396097,
+      "category": "low",
+      "risk": 0.2
+    },
+    "7": {
+      "corr": 0.3517766807406021,
+      "category": "low",
+      "risk": 0.2
+    },
+    "8": {
+      "corr": 0.2897301081885382,
+      "category": "moderate",
+      "risk": 0.5
+    },
+    "9": {
+      "corr": 0.4185738295320247,
+      "category": "low",
+      "risk": 0.2
+    },
+    "10": {
+      "corr": 0.4186060825204099,
+      "category": "low",
+      "risk": 0.2
+    }
+  },
+  "5": {
+    "1": {
+      "corr": 0.4115758233328364,
+      "category": "low",
+      "risk": 0.2
+    },
+    "2": {
+      "corr": 0.61639845912125,
+      "category": "low",
+      "risk": 0.2
+    },
+    "3": {
+      "corr": 0.5482921085461177,
+      "category": "low",
+      "risk": 0.2
+    },
+    "4": {
+      "corr": 0.5671562556332632,
+      "category": "low",
+      "risk": 0.2
+    },
+    "5": {
+      "corr": 1.0,
+      "category": "self",
+      "risk": 0.0
+    },
+    "6": {
+      "corr": 0.4120150553103329,
+      "category": "low",
+      "risk": 0.2
+    },
+    "7": {
+      "corr": 0.43346310178733327,
+      "category": "low",
+      "risk": 0.2
+    },
+    "8": {
+      "corr": 0.24282869848398136,
+      "category": "moderate",
+      "risk": 0.5
+    },
+    "9": {
+      "corr": 0.5634213999830664,
+      "category": "low",
+      "risk": 0.2
+    },
+    "10": {
+      "corr": 0.38509319112220414,
+      "category": "low",
+      "risk": 0.2
+    }
+  },
+  "6": {
+    "1": {
+      "corr": 0.41480836537055515,
+      "category": "low",
+      "risk": 0.2
+    },
+    "2": {
+      "corr": 0.3801702324346659,
+      "category": "low",
+      "risk": 0.2
+    },
+    "3": {
+      "corr": 0.4290817299776855,
+      "category": "low",
+      "risk": 0.2
+    },
+    "4": {
+      "corr": 0.4123519949396097,
+      "category": "low",
+      "risk": 0.2
+    },
+    "5": {
+      "corr": 0.4120150553103329,
+      "category": "low",
+      "risk": 0.2
+    },
+    "6": {
+      "corr": 1.0,
+      "category": "self",
+      "risk": 0.0
+    },
+    "7": {
+      "corr": 0.428599287337198,
+      "category": "low",
+      "risk": 0.2
+    },
+    "8": {
+      "corr": 0.26132347267030237,
+      "category": "moderate",
+      "risk": 0.5
+    },
+    "9": {
+      "corr": 0.4390324005384731,
+      "category": "low",
+      "risk": 0.2
+    },
+    "10": {
+      "corr": 0.36697789548985715,
+      "category": "low",
+      "risk": 0.2
+    }
+  },
+  "7": {
+    "1": {
+      "corr": 0.3726690550507432,
+      "category": "low",
+      "risk": 0.2
+    },
+    "2": {
+      "corr": 0.395121984536267,
+      "category": "low",
+      "risk": 0.2
+    },
+    "3": {
+      "corr": 0.4593000786925071,
+      "category": "low",
+      "risk": 0.2
+    },
+    "4": {
+      "corr": 0.3517766807406021,
+      "category": "low",
+      "risk": 0.2
+    },
+    "5": {
+      "corr": 0.43346310178733327,
+      "category": "low",
+      "risk": 0.2
+    },
+    "6": {
+      "corr": 0.428599287337198,
+      "category": "low",
+      "risk": 0.2
+    },
+    "7": {
+      "corr": 1.0,
+      "category": "self",
+      "risk": 0.0
+    },
+    "8": {
+      "corr": 0.25052356516284435,
+      "category": "moderate",
+      "risk": 0.5
+    },
+    "9": {
+      "corr": 0.47012284159480894,
+      "category": "low",
+      "risk": 0.2
+    },
+    "10": {
+      "corr": 0.39709169404809,
+      "category": "low",
+      "risk": 0.2
+    }
+  },
+  "8": {
+    "1": {
+      "corr": 0.17126061414394794,
+      "category": "high",
+      "risk": 1.0
+    },
+    "2": {
+      "corr": 0.2513127277344348,
+      "category": "moderate",
+      "risk": 0.5
+    },
+    "3": {
+      "corr": 0.22174454132034135,
+      "category": "moderate",
+      "risk": 0.5
+    },
+    "4": {
+      "corr": 0.2897301081885382,
+      "category": "moderate",
+      "risk": 0.5
+    },
+    "5": {
+      "corr": 0.24282869848398136,
+      "category": "moderate",
+      "risk": 0.5
+    },
+    "6": {
+      "corr": 0.26132347267030237,
+      "category": "moderate",
+      "risk": 0.5
+    },
+    "7": {
+      "corr": 0.25052356516284435,
+      "category": "moderate",
+      "risk": 0.5
+    },
+    "8": {
+      "corr": 1.0,
+      "category": "self",
+      "risk": 0.0
+    },
+    "9": {
+      "corr": 0.2779862465452719,
+      "category": "moderate",
+      "risk": 0.5
+    },
+    "10": {
+      "corr": 0.23503787776341725,
+      "category": "moderate",
+      "risk": 0.5
+    }
+  },
+  "9": {
+    "1": {
+      "corr": 0.2691526879628306,
+      "category": "moderate",
+      "risk": 0.5
+    },
+    "2": {
+      "corr": 0.4575770298766398,
+      "category": "low",
+      "risk": 0.2
+    },
+    "3": {
+      "corr": 0.4509267922478756,
+      "category": "low",
+      "risk": 0.2
+    },
+    "4": {
+      "corr": 0.4185738295320247,
+      "category": "low",
+      "risk": 0.2
+    },
+    "5": {
+      "corr": 0.5634213999830664,
+      "category": "low",
+      "risk": 0.2
+    },
+    "6": {
+      "corr": 0.4390324005384731,
+      "category": "low",
+      "risk": 0.2
+    },
+    "7": {
+      "corr": 0.47012284159480894,
+      "category": "low",
+      "risk": 0.2
+    },
+    "8": {
+      "corr": 0.2779862465452719,
+      "category": "moderate",
+      "risk": 0.5
+    },
+    "9": {
+      "corr": 1.0,
+      "category": "self",
+      "risk": 0.0
+    },
+    "10": {
+      "corr": 0.4194569151332285,
+      "category": "low",
+      "risk": 0.2
+    }
+  },
+  "10": {
+    "1": {
+      "corr": 0.32120036980927585,
+      "category": "moderate",
+      "risk": 0.5
+    },
+    "2": {
+      "corr": 0.34752757330948236,
+      "category": "moderate",
+      "risk": 0.5
+    },
+    "3": {
+      "corr": 0.4775141836958956,
+      "category": "low",
+      "risk": 0.2
+    },
+    "4": {
+      "corr": 0.4186060825204099,
+      "category": "low",
+      "risk": 0.2
+    },
+    "5": {
+      "corr": 0.38509319112220414,
+      "category": "low",
+      "risk": 0.2
+    },
+    "6": {
+      "corr": 0.36697789548985715,
+      "category": "low",
+      "risk": 0.2
+    },
+    "7": {
+      "corr": 0.39709169404809,
+      "category": "low",
+      "risk": 0.2
+    },
+    "8": {
+      "corr": 0.23503787776341725,
+      "category": "moderate",
+      "risk": 0.5
+    },
+    "9": {
+      "corr": 0.4194569151332285,
+      "category": "low",
+      "risk": 0.2
+    },
+    "10": {
+      "corr": 1.0,
+      "category": "self",
+      "risk": 0.0
+    }
+  }
+}

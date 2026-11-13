@@ -1,0 +1,7 @@
+{
+  "mastery_threshold": 0.7,
+  "uncertainty_threshold": 0.75,
+  "forgetting_threshold": 0.7,
+  "uncertainty_penalty": 0.25,
+  "forgetting_penalty": 0.15
+}

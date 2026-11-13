@@ -1,0 +1,76 @@
+{
+  "source": "FORGET-SE",
+  "detected_sequence_id_format": "numeric_1_to_10",
+  "knowledge_components": [
+    {
+      "kc_index": 1,
+      "sequence_id_normalized": "KC1",
+      "model_concept_id": 0,
+      "name_en": "Git",
+      "name_vi": "Git / Quản lý phiên bản"
+    },
+    {
+      "kc_index": 2,
+      "sequence_id_normalized": "KC2",
+      "model_concept_id": 1,
+      "name_en": "Design Patterns",
+      "name_vi": "Mẫu thiết kế"
+    },
+    {
+      "kc_index": 3,
+      "sequence_id_normalized": "KC3",
+      "model_concept_id": 2,
+      "name_en": "Software Testing",
+      "name_vi": "Kiểm thử phần mềm"
+    },
+    {
+      "kc_index": 4,
+      "sequence_id_normalized": "KC4",
+      "model_concept_id": 3,
+      "name_en": "Data Structures",
+      "name_vi": "Cấu trúc dữ liệu"
+    },
+    {
+      "kc_index": 5,
+      "sequence_id_normalized": "KC5",
+      "model_concept_id": 4,
+      "name_en": "Android",
+      "name_vi": "Phát triển Android"
+    },
+    {
+      "kc_index": 6,
+      "sequence_id_normalized": "KC6",
+      "model_concept_id": 5,
+      "name_en": "Tokeniser & Parser",
+      "name_vi": "Tokeniser & Parser"
+    },
+    {
+      "kc_index": 7,
+      "sequence_id_normalized": "KC7",
+      "model_concept_id": 6,
+      "name_en": "Persistent Data",
+      "name_vi": "Persistent Data / Dữ liệu lưu bền"
+    },
+    {
+      "kc_index": 8,
+      "sequence_id_normalized": "KC8",
+      "model_concept_id": 7,
+      "name_en": "Refactoring",
+      "name_vi": "Tái cấu trúc mã"
+    },
+    {
+      "kc_index": 9,
+      "sequence_id_normalized": "KC9",
+      "model_concept_id": 8,
+      "name_en": "Design by Contract",
+      "name_vi": "Thiết kế theo hợp đồng"
+    },
+    {
+      "kc_index": 10,
+      "sequence_id_normalized": "KC10",
+      "model_concept_id": 9,
+      "name_en": "Intellectual Property",
+      "name_vi": "Sở hữu trí tuệ"
+    }
+  ]
+}

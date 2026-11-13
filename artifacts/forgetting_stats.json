@@ -1,0 +1,6 @@
+{
+  "gap_mode": "days_user_input",
+  "gap_scale_q95": 14.0,
+  "gap_weight": 0.6,
+  "interference_weight": 0.4
+}

@@ -1,0 +1,57 @@
+raw_qid,model_question_id,kc_index,model_concept_id,kc_code,kc_name_en,kc_name_vi,interaction_count,mean_correctness
+2001,9,1,0,KC1,Git,Git / Quản lý phiên bản,208,0.7307692307692307
+2002,10,1,0,KC1,Git,Git / Quản lý phiên bản,208,0.4230769230769231
+2003,11,1,0,KC1,Git,Git / Quản lý phiên bản,208,0.6490384615384616
+2004,12,1,0,KC1,Git,Git / Quản lý phiên bản,208,0.6298076923076923
+3001,15,1,0,KC1,Git,Git / Quản lý phiên bản,207,0.5458937198067633
+3003,17,1,0,KC1,Git,Git / Quản lý phiên bản,207,0.2608695652173913
+1005,6,1,0,KC1,Git,Git / Quản lý phiên bản,203,0.3399014778325123
+5001,27,1,0,KC1,Git,Git / Quản lý phiên bản,200,0.585
+4004,24,1,0,KC1,Git,Git / Quản lý phiên bản,198,0.3333333333333333
+2,8,1,0,KC1,Git,Git / Quản lý phiên bản,196,0.7193877551020408
+2005,13,2,1,KC2,Design Patterns,Mẫu thiết kế,207,0.463768115942029
+3002,16,2,1,KC2,Design Patterns,Mẫu thiết kế,207,0.42995169082125606
+3004,18,2,1,KC2,Design Patterns,Mẫu thiết kế,206,0.22815533980582525
+4003,23,2,1,KC2,Design Patterns,Mẫu thiết kế,199,0.6582914572864321
+5002,28,2,1,KC2,Design Patterns,Mẫu thiết kế,199,0.49748743718592964
+6004,36,2,1,KC2,Design Patterns,Mẫu thiết kế,197,0.8527918781725888
+3,14,2,1,KC2,Design Patterns,Mẫu thiết kế,196,0.01020408163265306
+8004,48,2,1,KC2,Design Patterns,Mẫu thiết kế,187,0.6577540106951871
+10004,4,2,1,KC2,Design Patterns,Mẫu thiết kế,185,0.33513513513513515
+9004,54,2,1,KC2,Design Patterns,Mẫu thiết kế,184,0.1956521739130435
+7004,42,2,1,KC2,Design Patterns,Mẫu thiết kế,175,0.8971428571428571
+3005,19,3,2,KC3,Software Testing,Kiểm thử phần mềm,204,0.75
+4001,21,3,2,KC3,Software Testing,Kiểm thử phần mềm,199,0.5376884422110553
+4002,22,3,2,KC3,Software Testing,Kiểm thử phần mềm,199,0.37185929648241206
+5003,29,3,2,KC3,Software Testing,Kiểm thử phần mềm,198,0.36363636363636365
+6003,35,3,2,KC3,Software Testing,Kiểm thử phần mềm,198,0.3434343434343434
+4,20,3,2,KC3,Software Testing,Kiểm thử phần mềm,196,0.8520408163265306
+8003,47,3,2,KC3,Software Testing,Kiểm thử phần mềm,188,0.43617021276595747
+10003,3,3,2,KC3,Software Testing,Kiểm thử phần mềm,187,0.7914438502673797
+9003,53,3,2,KC3,Software Testing,Kiểm thử phần mềm,185,0.4972972972972973
+7003,41,3,2,KC3,Software Testing,Kiểm thử phần mềm,176,0.9147727272727273
+4005,25,4,3,KC4,Data Structures,Cấu trúc dữ liệu,199,0.6331658291457286
+5004,30,4,3,KC4,Data Structures,Cấu trúc dữ liệu,199,0.7085427135678392
+6002,34,4,3,KC4,Data Structures,Cấu trúc dữ liệu,198,0.6616161616161617
+5,26,4,3,KC4,Data Structures,Cấu trúc dữ liệu,195,0.27692307692307694
+8002,46,4,3,KC4,Data Structures,Cấu trúc dữ liệu,188,0.648936170212766
+10002,2,4,3,KC4,Data Structures,Cấu trúc dữ liệu,187,0.5668449197860963
+9002,52,4,3,KC4,Data Structures,Cấu trúc dữ liệu,185,0.41081081081081083
+7002,40,4,3,KC4,Data Structures,Cấu trúc dữ liệu,174,0.5632183908045977
+5005,31,5,4,KC5,Android,Phát triển Android,199,0.7135678391959799
+6001,33,5,4,KC5,Android,Phát triển Android,198,0.7525252525252525
+6,32,5,4,KC5,Android,Phát triển Android,196,0.44387755102040816
+8001,45,5,4,KC5,Android,Phát triển Android,188,0.4787234042553192
+10001,1,5,4,KC5,Android,Phát triển Android,187,0.6844919786096256
+9001,51,5,4,KC5,Android,Phát triển Android,186,0.7849462365591398
+7001,39,5,4,KC5,Android,Phát triển Android,175,0.5142857142857142
+7,38,6,5,KC6,Tokeniser & Parser,Tokeniser & Parser,196,0.6581632653061225
+6005,37,6,5,KC6,Tokeniser & Parser,Tokeniser & Parser,195,0.4358974358974359
+8,44,7,6,KC7,Persistent Data,Persistent Data / Dữ liệu lưu bền,196,0.6224489795918368
+7005,43,7,6,KC7,Persistent Data,Persistent Data / Dữ liệu lưu bền,174,0.8620689655172413
+9,50,8,7,KC8,Refactoring,Tái cấu trúc mã,196,0.44387755102040816
+8005,49,8,7,KC8,Refactoring,Tái cấu trúc mã,186,0.43010752688172044
+10,0,9,8,KC9,Design by Contract,Thiết kế theo hợp đồng,196,0.5051020408163265
+9005,55,9,8,KC9,Design by Contract,Thiết kế theo hợp đồng,184,0.5869565217391305
+11,7,10,9,KC10,Intellectual Property,Sở hữu trí tuệ,196,0.5816326530612245
+10005,5,10,9,KC10,Intellectual Property,Sở hữu trí tuệ,185,0.7513513513513513
